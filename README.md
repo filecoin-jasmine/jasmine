@@ -1,4 +1,4 @@
-# Jasmine Project@HKUST-ASTRI
+# Jasmine Project@HKUST
 
 Open source platform for next generation distributed technology
 
