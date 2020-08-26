@@ -14,20 +14,14 @@ This repository is the main hub leading to the various efforts in Jasmine Projec
 
 ## Table of contents
 
+   * [More about our Project](#installation)
+   * [Distrubuted File System (DFS)](#awd)
+      * [Introduction](#stdin)
+      * [Documentation](#local-files)
+   * [Distrubuted File Coin (DFC)](#installation)
+      * [Introduction](#stdin)
+      * [Documentation](#local-files)
    * [Theoretical Papers](#gh-md-toc)
-   * [Table of contents](#table-of-contents)
-   * [Installation](#installation)
-   * [Usage](#usage)
-      * [STDIN](#stdin)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
-
 
 ## Contributors
 <a href="https://github.com/filecoin-jasmine/jasmine/graphs/contributors">
