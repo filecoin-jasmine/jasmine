@@ -12,6 +12,23 @@ The distributed file system is the common infrastructure Jasmin Project aims to 
 
 This repository is the main hub leading to the various efforts in Jasmine Project and should provide you with the means to engage in this work.
 
+## Table of contents
+
+   * [Theoretical Papers](#gh-md-toc)
+   * [Table of contents](#table-of-contents)
+   * [Installation](#installation)
+   * [Usage](#usage)
+      * [STDIN](#stdin)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+      * [Auto insert and update TOC](#auto-insert-and-update-toc)
+      * [GitHub token](#github-token)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+
+
 ## Contributors
 <a href="https://github.com/filecoin-jasmine/jasmine/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=filecoin-jasmine/jasmine" />
