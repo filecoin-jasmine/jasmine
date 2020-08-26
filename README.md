@@ -25,6 +25,17 @@ To be updated
 
 To be updated
 
+## Useful links
+
+To be updated
+
+## Contact
+Edison Yang (edisonyang@astri.org)
+
+XiaoYu Zhao (xyzhao@astri.org)
+
+Steven Cheng (cfchengac@connect.ust.hk)
+
 ## License
 
 The Jasmine Project is dual-licensed under Apache 2.0 and MIT terms:
