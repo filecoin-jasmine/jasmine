@@ -17,8 +17,6 @@ This repository is the main hub leading to the various efforts in Jasmine Projec
   <img src="https://contributors-img.web.app/image?repo=filecoin-jasmine/jasmine" />
 </a>
 
-Made with [contributors-img](https://contributors-img.web.app).
-
 ## Community
 
 To be updated
