@@ -30,11 +30,11 @@ To be updated
 To be updated
 
 ## Contact
-Edison Yang (edisonyang@astri.org)
-
-XiaoYu Zhao (xyzhao@astri.org)
-
 Steven Cheng (cfchengac@connect.ust.hk)
+
+XiaoYu Zhao (enxyzhao@gmail.com)
+
+Edison Yang (edisonyang@gmail.com)
 
 ## License
 
