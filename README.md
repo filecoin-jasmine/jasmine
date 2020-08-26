@@ -49,9 +49,9 @@ To be updated
 ## Contact
 Steven Cheng (cfchengac@connect.ust.hk)
 
-XiaoYu Zhao (enxyzhao@gmail.com)
+XY Zhao (enxyzhao@gmail.com)
 
-Edison Yang (edisonyang@gmail.com)
+Edison Yang (edyyoung@163.com)
 
 ## License
 
